@@ -9,5 +9,11 @@
     <dimen name="margin">8dp</dimen>
     <dimen name="margin_med">16dp</dimen>
     <dimen name="margin_lg">32dp</dimen>
+    
+    <!-- Textsizes -->
+    <dimen name="text_sm">18sp</dimen>
+    <dimen name="text">20sp</dimen>
+    <dimen name="text_med">22sp</dimen>
+    <dimen name="text_lg">24sp</dimen>
 
 </resources>

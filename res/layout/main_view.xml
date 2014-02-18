@@ -3,12 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/appBackground_color"
-    tools:context=".MainActivity" >
+    tools:context=".MainActivity"
+    tools:ignore="ContentDescription" >
 
     <ImageView
         android:id="@+id/addBtn"
-        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_margin="@dimen/margin_med"
