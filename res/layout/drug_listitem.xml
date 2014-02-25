@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drug_card"
+        android:padding="16dp"
+        tools:ignore="UselessParent" >
+
+        <TextView
+            android:id="@+id/drugListText"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Vitamins"
+            android:textColor="#333"
+            android:textSize="22sp" />
+
+        <!--
+	    <ImageView
+	        android:id="@+id/drugListTakenButton"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:src="" -->
+
+    </LinearLayout>
+
+</LinearLayout>
