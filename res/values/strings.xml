@@ -3,6 +3,7 @@
 	
     <!-- Essentials -->
     <string name="app_name">pillzee</string>
+    <string name="appAddDrug">Add Drug</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     
